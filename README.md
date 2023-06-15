@@ -2,7 +2,7 @@
 
 ## Development
 
-To Do List is developed using the Flutter framework with Dart programming language.
+ToDo List is developed using the Flutter framework with Dart programming language.
 
 ## Features
 
